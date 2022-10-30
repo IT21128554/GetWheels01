@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GetWheels01</string>
+    <string name="back">BACK</string>
+    <string name="create_new_account">Payment Details</string>
+    <string name="sign_up"><![CDATA[Payment & Details]]></string>
+    <string name="getwheels">Get Wheels</string>
+    <string name="welcome_user">Welcome Customer</string>
+    <string name="hintpn">Moblile</string>
+    <string name="hintus">Name</string>
+    <string name="username">Name</string>
+    <string name="location">Location</string>
+    <string name="mobile">Contact No</string>
+    <string name="Car">Car</string>
+    <string name="Pick_up_date">Pick Up Date</string>
+    <string name="hintdob">Date</string>
+    <string name="Drop_off_date">Drop Off Date</string>
+    <string name="address">Location</string>
+    <string name="hintadd">location</string>
+    <string name="btndone">DONE</string>
+    <string name="btnShow">SHOW</string>
+</resources>
